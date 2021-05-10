@@ -1,0 +1,7 @@
+##### Ultima atualização 16/02/21 #####
+
+Este repositório contém as configurações do editor Vim.
+
+Copiar os arquivos para a home e ocultá-los.
+
+cp -r vim/ ~/.vim/; cp vimrc ~/.vimrc
