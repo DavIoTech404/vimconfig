@@ -1,9 +1,8 @@
-##### Ultima atualização 16/02/21 #####
+##### Última atualização 13/11/21 #####
 
 Este repositório contém as configurações do editor Vim.
 
 Copiar os arquivos para a home e ocultá-los.
-
 cp -r vim/ ~/.vim/; cp vimrc ~/.vimrc
 
-Para instalar os plugins basta entrar no vim e utilizar o comando :PlugInstall
+Para instalar os plugins basta entrar no vim e utilizar os comando ':source %' e em seguida ':PlugInstall'.
